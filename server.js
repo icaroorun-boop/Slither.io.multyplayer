@@ -11,7 +11,7 @@ app.use(express.static('public'));
 // ========== CONSTANTES ==========
 const MAP_MAX = 5000;
 const MAP_MIN = 2000;
-const TICK_RATE = 60;
+const TICK_RATE = 30;
 const TICK_INTERVAL = 1000 / TICK_RATE;
 const MIN_SEGMENTS = 3;
 const BOT_COUNT = 0;          // Sem bots normais (apenas players)
