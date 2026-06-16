@@ -24,8 +24,8 @@ const colors = [
 ];
 
 const FOOD_LIMITS = {
-  green: 500, yellow: 180, pink: 120, red: 220,
-  white: 80, rgb: 30, turbo: 30, magnet: 30, corpse: 9999
+  green: 100, yellow: 80, pink: 60, red: 50,
+  white: 70, rgb: 30, turbo: 3, magnet: 3, corpse: 500
 };
 
 // ========== ESTADO GLOBAL ==========
